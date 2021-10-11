@@ -18,6 +18,8 @@ Navigate to the Develop folder using the command prompt.
 
 Run `npm i` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer.
 
+The deployed Heroku link is below: <a href="https://bellona-pierina.herokuapp.com/">Heroku App</a>
+
 
 ```
 
